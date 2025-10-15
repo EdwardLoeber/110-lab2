@@ -4,7 +4,7 @@
   "description": "Fresh repository with main branch.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,8 @@
   "homepage": "https://github.com/EdwardLoeber/110-lab2#readme",
   "devDependencies": {
     "@types/node": "^24.7.2",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4"
   }
+  
 }
