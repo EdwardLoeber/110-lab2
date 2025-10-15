@@ -3,7 +3,9 @@ import printSongs from './music';
 
 function main(): void {
     printSongs();
-    let snacks = ['Turbos', 'Popcorn', 'Sour candy', 'Chocolate', 'Cookies'];
+    console.log('\n');
+    console.log('\n');
+    let snacks = ['Turbos', 'Popcorn', 'Sour candy', 'Chocolate', 'Cookies', 'snack1', 'snack2'];
     printSnacks(snacks);
 }
 
