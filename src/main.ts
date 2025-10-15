@@ -5,7 +5,7 @@ function main(): void {
     printSongs();
     console.log('\n');
     console.log('\n');
-    let snacks = ['Turbos', 'Popcorn', 'Sour candy', 'Chocolate', 'Cookies'];
+    let snacks = ['Turbos', 'Popcorn', 'Sour candy', 'Chocolate', 'Cookies', 'snack1', 'snack2'];
     printSnacks(snacks);
 }
 
