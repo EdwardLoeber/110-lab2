@@ -6,5 +6,3 @@ export default function printSongs(): void {
     console.log(`${songs}`);
   });
 }
-
-printSongs();
